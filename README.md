@@ -1,6 +1,10 @@
 # Errors-in-single-pixel-photography-emerging-from-light-collection-limits-by-the-bucket-detector
 Supplementary data and code supporting the article 'Errors in single pixel photography emerging from light collection limits by the bucket detector'
 
+Dependencies: 
+- spgl1, required if CS is desired. https://github.com/mpf/spgl1
+- pillow, https://pypi.org/project/pillow/
+
 The following files and folders are in this directory:
 
 - 'cifar-10_batches-py': Contains the cifar-10 data batch that are used for the simulation as a compressed .rar file. **Please extract for usage**
