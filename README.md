@@ -1,5 +1,6 @@
 # Errors-in-single-pixel-photography-emerging-from-light-collection-limits-by-the-bucket-detector
-Supplementary data and code supporting the article 'Errors in single pixel photography emerging from light collection limits by the bucket detector'
+Supplementary data and code supporting the article 'Errors in single pixel photography emerging from light collection limits by the bucket detector'.
+A derivation of the discrete formulas can be found in the "supplementrary_document_jopt.pdf".
 
 Dependencies: 
 - spgl1, required if CS is desired. https://github.com/mpf/spgl1
